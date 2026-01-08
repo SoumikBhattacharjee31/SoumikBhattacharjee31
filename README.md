@@ -13,12 +13,12 @@
 ```typescript
 const developer = {
     name: "Soumik Bhattacharjee",
-    location: "Your Location 🌍",
+    location: "Shewrapara, Dhaka, Bangladesh 🌍",
     role: "Full Stack Developer",
     languages: ["JavaScript", "Python", "Java", "C++"],
     interests: ["Web Dev", "AI/ML", "Open Source"],
     currentFocus: "Building amazing things ✨",
-    funFact: "I debug with console.log() 😅"
+    funFact: "I didn't watch naruto/one piece 😅"
 };
 ```
 
@@ -58,29 +58,24 @@ const developer = {
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
-
+<!---
 ## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" height="180em" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" />
 </div>
-
 ## 🏆 GitHub Trophies
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 </div>
-
 ## 📈 Contribution Graph
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" width="100%">
 </div>
+--->
 
 ## 🎯 Current Projects
 
@@ -101,10 +96,11 @@ const developer = {
 </div>
 
 ## 🐍 Contribution Snake
-
+<!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
+-->
 
 ---
 
@@ -112,10 +108,10 @@ const developer = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumik-bhattacharjee-cse-buet)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SoumikBhat23192)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://x.com/SoumikBhat23192)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumikbhat330@gmail.com)
 
 </div>
 
@@ -126,8 +122,9 @@ const developer = {
 <div align="center">
   
 ### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
+<!--
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+-->
 
 </div>
 
