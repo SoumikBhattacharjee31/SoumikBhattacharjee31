@@ -11,11 +11,11 @@ jobs:
     steps:
       - uses: Platane/snk@master
         with:
-          github_user_name: YOUR_USERNAME
+          github_user_name: Soumik Bhattacharjee
           outputs: dist/github-contribution-grid-snake-dark.svg
       - uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.MY_GH_SECRET }}
